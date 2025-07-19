@@ -19,7 +19,7 @@
 
 </div>
 
-## 🎯 projects that actually matter
+## 🎯 projects
 
 ### 🔥 [resumeroast.ca](https://resumeroast.ca)
 *resume review platform with ai intelligence*
