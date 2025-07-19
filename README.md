@@ -1,11 +1,16 @@
 # hey there, i'm dhruv 👋 
 
-### currently @ tesla 🤖⚡ building ai agents that fix problems so engineers can actually sleep
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Student+%40+UofT;Building+Cool+Things;Problem+Solver;Always+Learning" alt="Typing SVG" />
+</div>
 
-> *cs student at uoft who's into solving problems and building things that actually matter*
+> *cs student at uoft who's into building cool things that solve problems in the world*
+
+<br>
 
 ---
 
+<br>
 
 ## 🛠️ languages i speak
 
@@ -19,33 +24,73 @@
 
 </div>
 
-## 🎯 projects
+<br>
+
+## 🎯 featured projects
+
+<table>
+<tr>
+<td width="25%">
 
 ### 🔥 [resumeroast.ca](https://resumeroast.ca)
-*resume review platform with ai intelligence*
-- Built with Next.js, LangChain, and a bunch of other cool tech
-- Trained on 100+ FAANG resume reviews for real, actionable feedback
+*AI-powered resume review platform*
+
+**✨ Features:**
+- Built with Next.js & LangChain
+- Trained on 100+ FAANG reviews
+- Real, actionable feedback
+
+</td>
+<td width="25%">
 
 ### 🎓 [UofT Clubhouse](https://sop.utoronto.ca/)
-*social platform for uoft students*
-- AI-powered club recommendations based on interests
-- React, Node.js, TensorFlow, PyTorch, AWS
+*Social platform for students*
+
+**✨ Features:**
+- AI-powered recommendations
+- **Integrated with UofT's official site** 🎉
+- React, Node.js, TensorFlow, PyTorch
+
+</td>
+<td width="25%">
 
 ### 🏠 GetawayAI: Smart Rentals
-*airbnb but smarter with ml pricing*
-- ML-powered rental platform with optimal pricing predictions
-- Django, PyTorch, scikit-learn, GCP
+*Airbnb but smarter with ML*
+
+**✨ Features:**
+- ML-powered pricing predictions
+- Personalized recommendations
+- Django, PyTorch, scikit-learn
+
+</td>
+<td width="25%">
 
 ### 🤟 Lindi: Accessibility App
-*real-time sign language translation*
-- Connects deaf users with translators using AI
+*Real-time sign language translation*
+
+**✨ Features:**
+- Connects deaf users with translators
+- AI-powered translation
 - React Native, AI/ML, Django
 
-[**→ see all my projects**](https://github.com/d-p35?tab=repositories)
+</td>
+</tr>
+</table>
 
-## 📈 github stats
+<div align="center">
+  
+**[→ see all my projects](https://github.com/d-p35?tab=repositories)**
+
+</div>
+
+<br>
+
+## 📈 github activity
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d-p35&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff" alt="GitHub Activity Graph" />
 </div>
+
+<br>
 
 
