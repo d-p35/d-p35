@@ -1,7 +1,7 @@
 # hey there, i'm dhruv 👋 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Student+%40+UofT;Building+Cool+Things;Problem+Solver;Self-directed+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=CS+Student+%40+UofT;Building+Cool+Things;Problem+Solver" alt="Typing SVG" />
 </div>
 
 > *cs student at uoft who's into building cool things that solve problems in the world*
